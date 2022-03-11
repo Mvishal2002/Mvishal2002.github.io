@@ -1,0 +1,132 @@
+{
+  "main": {
+    "name": "Vishal Maurya",
+    "occupation": "Game Developer",
+    "description": "Make games, Play games, Eat games",
+    "image": "MyProfilePic.jpg",
+    "bio": "Hi there! I am Vishal! I've been coding games and stuff for over 3 years now. As a Game developer, I've worked on both self projects and in internships to learn more about game development. During my first year of college, I was exploring different fields of programming, and since I found game development there is no turning back. After working on some hypercasual games, I now want to work a AAA titles and Indie games.",
+    "contactmessage": "Get in touch with me to make awesome games!",
+    "email": "mauryav2002@gmail.com",
+    "phone": "+91 99879 43435",
+    "address": {
+      "city": "Mumbai",
+      "state": "Maharashtra"
+    },
+    "website": "https://www.papareact.com/course",
+    "resumedownload": "./images/portfolio/Resume_Vishal_Maurya.pdf",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/vishal.maurya.7503314",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/vishal-maurya-94157b1a2",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Mvishal2002",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language and Game Engines Proficiency",
+    "education": [
+      {
+        "school": "Indian Institute Of Technology Kharagpur, India",
+        "degree": "Integrated M.Sc Degree, Physics",
+        "graduated": "July 2019 - Current, Third Year",
+        "description": "Current CGPA 8.51/10"
+      }
+    ],
+    "work": [
+      {
+        "company": "Bone Game Studios",
+        "title": "Game Programmer Intern",
+        "years": "October 2020 - January 2021",
+        "description": "Developing game machanics, UI, login/signup system and in game ads system."
+      },
+      {
+        "company": "Wizwack Studios",
+        "title": "Unity Game Developer Intern",
+        "years": "November 2021 - January 2022",
+        "description": "Optimizing existing games. Developing level designs, animations and game logics."
+      },
+      {
+        "company": "CSKA Automation Services",
+        "title": "Unreal Metaverse Developer Intern",
+        "years": "February 2022 - Present",
+        "description": "Developing multiplayer and VR game logics."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Unity",
+        "level": "75%"
+      },
+      {
+        "name": "Unreal",
+        "level": "60%"
+      },
+      {
+        "name": "C",
+        "level": "90%"
+      },
+      {
+        "name": "Python",
+        "level": "75%"
+      },
+      {
+        "name": "C++",
+        "level": "85%"
+      },
+      {
+        "name": "C#",
+        "level": "85%"
+      },
+      {
+        "name": "Javascript",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Balance (Unity)",
+        "category": "Game Jam",
+        "image": "GameJam.png",
+        "url": "https://github.com/Mvishal2002/Balance-Unity"
+      },
+      {
+        "title": "Unarmed (Unity)",
+        "category": "Self Project",
+        "image": "Unarmed.png",
+        "url": "https://github.com/Mvishal2002/Unarmed-Unity"
+      },
+      {
+        "title": "Lock And Load (Unreal)",
+        "category": "Self Project",
+        "image": "Shooter.png",
+        "url": "https://github.com/Mvishal2002/LockAndLoad-Unreal4"
+      },
+      {
+        "title": "Flying Rick (Unreal)",
+        "category": "Self Project",
+        "image": "Runner.png",
+        "url": "https://github.com/Mvishal2002/Flying-Rick"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Vishal has demonstrated his skills with self motivation to learn new skills. He exceeded our expectations and completed his projects on time.",
+        "user": "Ankit Gupta"
+      }
+    ]
+  }
+}
