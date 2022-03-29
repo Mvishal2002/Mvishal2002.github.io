@@ -2,17 +2,17 @@
   "main": {
     "name": "Vishal Maurya",
     "occupation": "Game Developer",
-    "description": "Make games, Play games, Eat games",
+    "description": "",
     "image": "MyProfilePic.jpg",
-    "bio": "Hi there! I am Vishal! I've been coding games and stuff for over 3 years now. As a Game developer, I've worked on both self projects and in internships to learn more about game development. During my first year of college, I was exploring different fields of programming, and since I found game development there is no turning back. After working on some hypercasual games, I now want to work a AAA titles and Indie games.",
+    "bio": "I am a professional game developer with extensive experience and expertise in gameplay optimization, UI, multiplayer, and gameplay mechanics. After developing various hypercasual games for over 3 years in my weekend projects and industrial experiences, I am exploring oppurtunities in game development for AAA titles and Indie games. Academically, I am a third year undergraduate student of Physics major at IIT Kharagpur, where  i enjoy strolling around the campus and participating in various vibrant events whenever I am not developing games or vested in exams.",
     "contactmessage": "Get in touch with me to make awesome games!",
     "email": "mauryav2002@gmail.com",
-    "phone": "+91 99879 43435",
+    "phone": "",
     "address": {
       "city": "Mumbai",
       "state": "Maharashtra"
     },
-    "website": "https://www.papareact.com/course",
+    "website": "",
     "resumedownload": "./images/portfolio/Resume_Vishal_Maurya.pdf",
     "social": [
       {
