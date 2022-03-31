@@ -10,7 +10,6 @@ const Contact = ({ data }) => {
     var contactName = data.name;
     var city = data.address.city;
     var state = data.address.state;
-    var phone = data.phone;
     var contactEmail = data.email;
     var contactMessage = data.contactmessage;
   }
@@ -124,8 +123,6 @@ const Contact = ({ data }) => {
               {contactEmail}
               <br />
               {city}, {state}
-              <br />
-              <span>{phone}</span>
             </p>
           </div>
         </aside>

@@ -4,11 +4,8 @@ const About = ({ data }) => {
   if (data) {
     var name = data.name;
     var profilepic = "images/" + data.image;
-    var bio = data.bio;
     var city = data.address.city;
     var state = data.address.state;
-    var phone = data.phone;
-    var email = data.email;
     var resumeDownload = data.resumedownload;
   }
 
@@ -19,13 +16,13 @@ const About = ({ data }) => {
           <img
             className="profile-pic"
             src={profilepic}
-            alt="Sonny's Profile Pic"
+            alt="Vishal's Profile Pic"
           />
         </div>
         <div className="nine columns main-col">
           <h2>About Me</h2>
 
-          <p>{bio}</p>
+          <p>I am a professional game developer with extensive experience and expertise in gameplay optimization, UI, multiplayer, and gameplay mechanics. After developing various hypercasual games for over 3 years in my <a href="https://drive.google.com/drive/folders/1ka_uQPLmhJJXvaNwIvz6evH-S8YovCv3?usp=sharing" target="_blank" rel="noreferrer">weekend projects</a> and <a href="https://drive.google.com/drive/folders/1axIemEI04d2rK7sS1HfQKtlU1ty2Jifp?usp=sharing" target="_blank" rel="noreferrer">industrial experiences</a>, I am exploring oppurtunities in game development for AAA titles and Indie games. Academically, I am a third year undergraduate student of <a href="http://www.iitkgp.ac.in/department/PH" target="_blank" rel="noreferrer">Physics major</a> at <a href="http://www.iitkgp.ac.in/" target="_blank" rel="noreferrer">IIT Kharagpur </a>, where  i enjoy strolling around the campus and participating in various vibrant events whenever I am not developing games or vested in exams.</p>
           <div className="row">
             <div className="columns contact-details">
               <h2>Contact Details</h2>
@@ -35,10 +32,6 @@ const About = ({ data }) => {
                 <span>
                   {city} {state}
                 </span>
-                <br />
-                <span>{phone}</span>
-                <br />
-                <span>{email}</span>
               </p>
             </div>
             <div className="columns download">
