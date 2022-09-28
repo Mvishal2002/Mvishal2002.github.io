@@ -4,7 +4,7 @@
     "occupation": "Game Developer",
     "description": "",
     "image": "MyProfilePic.jpg",
-    "bio": "I am a professional game developer with extensive experience and expertise in gameplay optimization, UI, multiplayer, and gameplay mechanics. After developing various hypercasual games for over 3 years in my weekend projects and industrial experiences, I am exploring oppurtunities in game development for AAA titles and Indie games. Academically, I am a third year undergraduate student of Physics major at IIT Kharagpur, where  i enjoy strolling around the campus and participating in various vibrant events whenever I am not developing games or vested in exams.",
+    "bio": "I am a professional game developer with extensive experience and expertise in gameplay optimization, UI, multiplayer, and gameplay mechanics. After developing various hypercasual games for over 3 years in my weekend projects and industrial experiences, I am exploring oppurtunities in game development for AAA titles and Indie games. Academically, I am a fourth year undergraduate student of Physics major at IIT Kharagpur, where  i enjoy strolling around the campus and participating in various vibrant events whenever I am not developing games or vested in exams.",
     "contactmessage": "Get in touch with me to make awesome games!",
     "email": "mauryav2002@gmail.com",
     "phone": "",
@@ -13,7 +13,7 @@
       "state": "Maharashtra"
     },
     "website": "",
-    "resumedownload": "./images/portfolio/Resume_Vishal_Maurya.pdf",
+    "resumedownload": "./images/portfolio/Resume_Vishal.pdf",
     "social": [
       {
         "name": "facebook",
@@ -38,28 +38,28 @@
       {
         "school": "Indian Institute Of Technology Kharagpur, India",
         "degree": "Integrated M.Sc Degree, Physics",
-        "graduated": "July 2019 - Current, Third Year",
-        "description": "Current CGPA 8.51/10"
+        "graduated": "July 2019 - Current, Fourth Year",
+        "description": "Current CGPA 8.43/10"
       }
     ],
     "work": [
       {
-        "company": "Bone Game Studios",
-        "title": "Game Programmer Intern",
-        "years": "October 2020 - January 2021",
-        "description": "Developing game machanics, UI, login/signup system and in game ads system."
+        "company": "Supergaming",
+        "title": "Game Developer Intern",
+        "years": "May 2022 - July 2022",
+        "description": "Developing a Web3 based game ETHERNIA!"
       },
       {
         "company": "Wizwack Studios",
         "title": "Unity Game Developer Intern",
         "years": "November 2021 - January 2022",
-        "description": "Optimizing existing games. Developing level designs, animations and game logics."
+        "description": "Optimizing STARHUNT gameplay. Developing level designs, animations and game logics."
       },
       {
-        "company": "CSKA Automation Services",
-        "title": "Unreal Metaverse Developer Intern",
-        "years": "February 2022 - Present",
-        "description": "Developing multiplayer and VR game logics."
+        "company": "Bone Game Studios",
+        "title": "Game Programmer Intern",
+        "years": "October 2020 - January 2021",
+        "description": "Developing game machanics, UI, login/signup system and in game ads system."
       }
     ],
     "skills": [
