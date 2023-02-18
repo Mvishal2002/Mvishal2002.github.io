@@ -47,77 +47,87 @@
         "company": "Supergaming",
         "title": "Game Developer Intern",
         "years": "May 2022 - July 2022",
-        "description": "Developing a Web3 based game ETHERNIA!"
+        "description": "As a Game Developer Intern at Tower Conquest: Metaverse, I brought my expertise in implementing gameplay features using Finite State Machines and resolved bugs related to synchronization and parameters. I integrated with back-end server APIs and designed UI screens for PvE and PvP game modes. This internship taught me the ins and outs of game development while working on a cutting-edge Web3-based game."
       },
       {
         "company": "Wizwack Studios",
         "title": "Unity Game Developer Intern",
         "years": "November 2021 - January 2022",
-        "description": "Optimizing STARHUNT gameplay. Developing level designs, animations and game logics."
-      },
-      {
-        "company": "Bone Game Studios",
-        "title": "Game Programmer Intern",
-        "years": "October 2020 - January 2021",
-        "description": "Developing game machanics, UI, login/signup system and in game ads system."
+        "description": "As a game development intern, I implemented multiplayer features in StarHunt using Firebase and added rewarded ads to Fight-Back with Android SDK and AdMobs. I also designed and developed Giant-Runner's gameplay, UI, and levels. Through these projects, I gained experience in Firebase, AdMobs, and game development, honing my skills in Unity, C#, and mobile development."
       }
     ],
     "skills": [
       {
         "name": "Unity",
-        "level": "75%"
+        "level": "100%",
+        "image": "./images/UnityLogo.png"
       },
       {
         "name": "Unreal",
-        "level": "60%"
+        "level": "60%",
+        "image": "./images/UnrealLogo.png"
       },
       {
         "name": "C",
-        "level": "90%"
+        "level": "90%",
+        "image": "./images/CLogo.png"
       },
       {
         "name": "Python",
-        "level": "75%"
+        "level": "75%",
+        "image": "./images/PythonLogo.png"
       },
       {
         "name": "C++",
-        "level": "85%"
+        "level": "85%",
+        "image": "./images/C++Logo.png"
       },
       {
         "name": "C#",
-        "level": "85%"
+        "level": "85%",
+        "image": "./images/CsharpLogo.png"
       },
       {
         "name": "Javascript",
-        "level": "70%"
+        "level": "70%",
+        "image": "./images/JSLogo.png"
+      },
+      {
+        "name": "VS Code",
+        "level": "70%",
+        "image": "./images/VSLogo.png"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Balance (Unity)",
+        "title": "Balance | Unity",
         "category": "Game Jam",
         "image": "GameJam.png",
-        "url": "https://github.com/Mvishal2002/Balance-Unity"
+        "url": "https://github.com/Mvishal2002/Balance-Unity",
+        "content": "Get ready for heart-pumping excitement with my timer-based game, where players maintain gas levels by tapping on bubbles. My WebGL build ranking 69th among 600+ participants is published on itch.io, showcasing my skills in game development and problem-solving under tight deadlines. Experience the thrill at https://mvishal2002.itch.io/balance and get ready to feel the rush!"
       },
       {
-        "title": "Unarmed (Unity)",
+        "title": "Unarmed | Unity",
         "category": "Self Project",
         "image": "Unarmed.png",
-        "url": "https://github.com/Mvishal2002/Unarmed-Unity"
+        "url": "https://github.com/Mvishal2002/Unarmed-Unity",
+        "content": "Presenting my action-packed game where enemies spawn one after another to kill the player having limited ammo. I programmed the AI movement using Nav Mesh and ensured that the player receives new weapons whenever ammo runs out. I designed various shaders and particle effects in Unity, and integrated SFX to give the game an elegant look. With this project, I've showcased my expertise in game programming and design."
       },
       {
-        "title": "Lock And Load (Unreal)",
+        "title": "HummingBirds | Unity",
         "category": "Self Project",
-        "image": "Shooter.png",
-        "url": "https://github.com/Mvishal2002/LockAndLoad-Unreal4"
+        "image": "HummingBirds.png",
+        "url": "https://github.com/Mvishal2002/HummingBirds",
+        "content": "Get ready for some intense competition! I designed and trained an AI agent to take on players in a mini-game using Unity ML-Agents and Python. Players compete against AI to gain as much nectar from flowers around them with time against their side. Through this project, I gained expertise in designing and training agents, using Multi-Layer Perceptron structure, and analyzing training results using TensorBoard."
       },
       {
-        "title": "Flying Rick (Unreal)",
+        "title": "Flying Rick | Unreal",
         "category": "Self Project",
         "image": "Runner.png",
-        "url": "https://github.com/Mvishal2002/Flying-Rick"
+        "url": "https://github.com/Mvishal2002/Flying-Rick",
+        "content": "Run for your life in my hypercasual endless runner game! Developed using Unreal Engine and C++, the game features various obstacles and powerups to keep you on your toes. Through this project, I gained expertise in level designing, behavior trees, and using blueprints and C++ together. I also designed the UI for the main menu, game, and game end screens, and added stylish SFX to enhance the experience."
       }
     ]
   },
