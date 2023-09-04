@@ -16,7 +16,7 @@ const Portfolio = ({ data }) => {
             {projects.title}
             </h3>
             <p className="portfolio__content">
-            {projects.content}
+              {projects.content}
             </p>
           </div>
         </div>
