@@ -38,22 +38,28 @@
       {
         "school": "Indian Institute Of Technology Kharagpur, India",
         "degree": "Integrated M.Sc Degree, Physics",
-        "graduated": "July 2019 - Current, Fourth Year",
-        "description": "Current CGPA 8.43/10"
+        "graduated": "July 2019 - Current, Final Year",
+        "description": "Current CGPA 8.23/10"
       }
     ],
     "work": [
       {
+        "company": "Mayhem Studios",
+        "title": "Unreal Developer Intern",
+        "years": "Jun 2023 - Aug 2023",
+        "description": "During my time developing <a href='https://underworldgangwars.com/' target='_blank'> Underworld Gang Wars </a>, I redefined the player experience with customizable in-game features like One-tap ADS, quick scope, and peek & scope settings. I also created an exhilarating free fall feature with VFX and SFX, and integrated immersive sound effects for footsteps, swimming, and more. Plus, I improved network security and telemetry capture with Quilkin, a non-transparent UDP proxy. In this digital underworld, my work aimed to empower players and enhance their adventure."
+      },
+      {
         "company": "Supergaming",
         "title": "Game Developer Intern",
         "years": "May 2022 - July 2022",
-        "description": "As a Game Developer Intern at Tower Conquest: Metaverse, I brought my expertise in implementing gameplay features using Finite State Machines and resolved bugs related to synchronization and parameters. I integrated with back-end server APIs and designed UI screens for PvE and PvP game modes. This internship taught me the ins and outs of game development while working on a cutting-edge Web3-based game."
+        "description": "As a Game Developer Intern at <a href='https://www.tcme.io/' target='_blank'> Tower Conquest: Metaverse </a>, I brought my expertise in implementing gameplay features using Finite State Machines and resolved bugs related to synchronization and parameters. I integrated with back-end server APIs and designed UI screens for PvE and PvP game modes. This internship taught me the ins and outs of game development while working on a cutting-edge Web3-based game."
       },
       {
         "company": "Wizwack Studios",
-        "title": "Unity Game Developer Intern",
+        "title": "Unity Developer Intern",
         "years": "November 2021 - January 2022",
-        "description": "As a game development intern, I implemented multiplayer features in StarHunt using Firebase and added rewarded ads to Fight-Back with Android SDK and AdMobs. I also designed and developed Giant-Runner's gameplay, UI, and levels. Through these projects, I gained experience in Firebase, AdMobs, and game development, honing my skills in Unity, C#, and mobile development."
+        "description": "As a game development intern, I implemented multiplayer features in <a href='https://play.google.com/store/apps/details?id=com.DevilzStudio.StarHunt' target='_blank'> StarHunt </a> using Firebase and added rewarded ads to Fight-Back with Android SDK and AdMobs. I also designed and developed Giant-Runner's gameplay, UI, and levels. Through these projects, I gained experience in Firebase, AdMobs, and game development, honing my skills in Unity, C#, and mobile development."
       }
     ],
     "skills": [
