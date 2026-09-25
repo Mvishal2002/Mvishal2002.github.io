@@ -3,8 +3,8 @@
     "name": "Vishal Maurya",
     "occupation": "Game Developer",
     "description": "",
-    "image": "MyProfilePic.jpg",
-    "bio": "I am a professional game developer with extensive experience and expertise in gameplay optimization, UI, multiplayer, and gameplay mechanics. After developing various hypercasual games for over 3 years in my weekend projects and industrial experiences, I am exploring oppurtunities in game development for AAA titles and Indie games. Academically, I am a fourth year undergraduate student of Physics major at IIT Kharagpur, where  i enjoy strolling around the campus and participating in various vibrant events whenever I am not developing games or vested in exams.",
+    "image": "MyProfilePic.png",
+    "bio": "I’m a professional game developer with experience building AAA mobile and hypercasual games, specializing in gameplay systems, AI, multiplayer, physics, and, optimization. Over the past four years, I’ve worked on both personal projects and professional teams, including as a founding engineer on ECricket at Lightfury Games. I’m now looking to bring that experience to console game development, contributing to ambitious AAA or indie titles. I hold an Integrated M.Sc. in Physics from IIT Kharagpur, where I developed the analytical foundation that continues to shape how I approach game development.",
     "contactmessage": "Get in touch with me to make awesome games!",
     "email": "mauryav2002@gmail.com",
     "phone": "",
@@ -15,11 +15,6 @@
     "website": "",
     "resumedownload": "./images/portfolio/Resume_Vishal.pdf",
     "social": [
-      {
-        "name": "facebook",
-        "url": "https://www.facebook.com/vishal.maurya.7503314",
-        "className": "fa fa-facebook"
-      },
       {
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/vishal-maurya-94157b1a2",
@@ -38,28 +33,34 @@
       {
         "school": "Indian Institute Of Technology Kharagpur, India",
         "degree": "Integrated M.Sc Degree, Physics",
-        "graduated": "July 2019 - Current, Final Year",
-        "description": "Current CGPA 8.23/10"
+        "graduated": "2019 - 2024",
+        "description": "CGPA 8.02/10"
       }
     ],
     "work": [
       {
-        "company": "Mayhem Studios",
+        "company": "<a href='https://www.lightfurygames.com/' target='_blank' rel='noopener noreferrer'>Lightfury Games</a>",
+        "title": "Engineer-2 (Founding Team)",
+        "years": "May 2024 - Present",
+        "description": "At Lightfury Games, I engineer <a href='https://ecricketgame.com/' target='_blank'> ECricket </a> as part of the founding team. I built a custom physics engine optimized for multiplayer and runtime switching between physics behaviors, and designed deterministic collision responses between an animation-driven bat and a physics-driven ball. I developed user-aware batting and bowling AI with state trees, increasing user engagement by 30%, and built scalable multiplayer infrastructure supporting matches from 1vAI to 11v11. I also created a simulation setup to record batting, bowling, and meta inputs alongside collision responses, enabling iterative improvements to the algorithms."
+      },
+      {
+        "company": "AuraML",
+        "title": "Software Development Intern",
+        "years": "Jan 2024 - Apr 2024",
+        "description": "As a Software Development Intern at AuraML, I used Pixel Streaming to let users customize environments and generate images for their machine learning models. I debugged memory and performance issues with Unreal Engine and Visual Studio tools, and built procedural warehouses using PCG graphs in Unreal Engine 5 to generate synthetic datasets. I also programmed realistic object-spawning logic in Blueprints, helping users create images that closely resemble real-world environments."
+      },
+      {
+        "company": "<a href='https://mayhem-studios.com/' target='_blank' rel='noopener noreferrer'>Mayhem Studios</a>",
         "title": "Unreal Developer Intern",
         "years": "Jun 2023 - Aug 2023",
         "description": "During my time developing <a href='https://underworldgangwars.com/' target='_blank'> Underworld Gang Wars </a>, I redefined the player experience with customizable in-game features like One-tap ADS, quick scope, and peek & scope settings. I also created an exhilarating free fall feature with VFX and SFX, and integrated immersive sound effects for footsteps, swimming, and more. Plus, I improved network security and telemetry capture with Quilkin, a non-transparent UDP proxy. In this digital underworld, my work aimed to empower players and enhance their adventure."
       },
       {
-        "company": "Supergaming",
+        "company": "<a href='https://www.supergaming.com/' target='_blank' rel='noopener noreferrer'>Supergaming</a>",
         "title": "Game Developer Intern",
         "years": "May 2022 - July 2022",
         "description": "As a Game Developer Intern at <a href='https://www.tcme.io/' target='_blank'> Tower Conquest: Metaverse </a>, I brought my expertise in implementing gameplay features using Finite State Machines and resolved bugs related to synchronization and parameters. I integrated with back-end server APIs and designed UI screens for PvE and PvP game modes. This internship taught me the ins and outs of game development while working on a cutting-edge Web3-based game."
-      },
-      {
-        "company": "Wizwack Studios",
-        "title": "Unity Developer Intern",
-        "years": "November 2021 - January 2022",
-        "description": "As a game development intern, I implemented multiplayer features in <a href='https://play.google.com/store/apps/details?id=com.DevilzStudio.StarHunt' target='_blank'> StarHunt </a> using Firebase and added rewarded ads to Fight-Back with Android SDK and AdMobs. I also designed and developed Giant-Runner's gameplay, UI, and levels. Through these projects, I gained experience in Firebase, AdMobs, and game development, honing my skills in Unity, C#, and mobile development."
       }
     ],
     "skills": [
@@ -74,16 +75,6 @@
         "image": "./images/UnrealLogo.png"
       },
       {
-        "name": "C",
-        "level": "90%",
-        "image": "./images/CLogo.png"
-      },
-      {
-        "name": "Python",
-        "level": "75%",
-        "image": "./images/PythonLogo.png"
-      },
-      {
         "name": "C++",
         "level": "85%",
         "image": "./images/C++Logo.png"
@@ -94,9 +85,19 @@
         "image": "./images/CsharpLogo.png"
       },
       {
-        "name": "Javascript",
+        "name": "Python",
+        "level": "75%",
+        "image": "./images/PythonLogo.png"
+      },
+      {
+        "name": "Perforce",
+        "level": "90%",
+        "image": "./images/PerforceLogo.png"
+      },
+      {
+        "name": "Rider",
         "level": "70%",
-        "image": "./images/JSLogo.png"
+        "image": "./images/RiderLogo.png"
       },
       {
         "name": "VS Code",
