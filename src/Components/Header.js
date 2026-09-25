@@ -67,7 +67,7 @@ const Header = ({ data }) => {
           </h1>
           <h3>
             {/* Based in {city}. <span>{occupation}</span>. {description}. */}
-            I am a Mumbai based <span>{occupation}</span>, who ideates, develops, plays and breathes gaming in its most immersive form.
+            I’m a <span>{occupation}</span> who builds, optimizes, and refines immersive gameplay experiences from the first idea to the final level.
           </h3>
           <hr />
           <ul className="social">{networks}</ul>
